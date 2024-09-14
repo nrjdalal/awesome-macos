@@ -9,3 +9,19 @@
 ### Menubar
 
 - Numi - a handy calculator app for macOS
+
+### Window Based
+
+- Bruno
+
+## casks to try
+
+- alt-tab
+- android-platform-tools
+- macfuse
+- warp
+- monitorcontrol
+- ollama
+- linearmouse / scroll-reverser
+- pearcleaner
+
